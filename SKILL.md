@@ -156,3 +156,4 @@ If a newly created task is ready to be picked up, add it to `ready.md`.
 - Use subtasks only for bounded stages of complex work; keep one primary task.
 - Keep unrelated discoveries as separate tasks.
 - Use Git and repository state as authoritative when resuming after compaction or restart.
+- Do any task completion before committing changes to Git.
