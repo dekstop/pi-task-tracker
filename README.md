@@ -8,7 +8,7 @@ Global:
 
 ```bash
 mkdir -p ~/.pi/agent/skills
-git clone git@github.com:dekstop/pi-task-tracker.git ~/.pi/agent/skills
+git clone https://github.com/dekstop/pi-task-tracker.git ~/.pi/agent/skills/task-tracker/
 ```
 
 Project-local (without git files):
